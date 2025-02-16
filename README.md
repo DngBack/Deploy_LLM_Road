@@ -5,7 +5,7 @@ Repo track learning to deploy LLM
 ## Serving
 
 - Ollama
-- vLLM
+- vLLM: Easy, fast, and cheap LLM serving for everyone [Repo](https://github.com/vllm-project/vllm) [Documents](https://docs.vllm.ai/en/latest/) [Learn](./Serving/vLLM/)
 - Triton
 - TensorRT
 - TensorRT-LLM
